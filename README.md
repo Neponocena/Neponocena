@@ -1,7 +1,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Desenvolvimento de Sistemas} na {UNIP}.
+- 🎓 Estudando {Análise e Desenvolvimento de Sistemas} na {UNIP}.
 - 💼 Trabalhando como {Analista Desenvolvedor} na {A2W}.
 - 🌱 Aprendendo mais sobre {JavaScript}.
 
@@ -27,4 +27,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/pedro-neponocena-14765423a/)
-[![GitHub](https://img.shields.io/github/followers/label=follow&style=social)](https://github.com/Neponocena)
+
