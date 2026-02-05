@@ -29,4 +29,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/pedro-neponocena-14765423a/)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Neponocena)
+[![GitHub](https://img.shields.io/github/&style=social)](https://github.com/Neponocena)
